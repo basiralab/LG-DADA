@@ -9,7 +9,7 @@ This repository provides the official Tensorflow implementation of the following
 
 
 > **Brain Graph Synthesis by Dual Adversarial Domain Alignment and Target Graph Prediction from a Source Graph**
-> [Alaa Bessadok](https://github.com/AlaaBessadok)<sup>1,2</sup>, [Mohamed Ali Mahjoub]<sup>2</sup>, [Islem Rekik](https://basira-lab.com/)<sup>1</sup>
+> [Alaa Bessadok](https://github.com/AlaaBessadok)<sup>1,2</sup>, [Mohamed Ali Mahjoub](https://scholar.google.com/citations?user=SpcjxQEAAAAJ&hl=en)<sup>2</sup>, [Islem Rekik](https://basira-lab.com/)<sup>1</sup>
 > <sup>1</sup>BASIRA Lab, Faculty of Computer and Informatics, Istanbul Technical University, Istanbul, Turkey
 > <sup>2</sup>University of Sousse, Higher Institute of Informatics and Communication Technologies, Sousse, Tunisia
 >
