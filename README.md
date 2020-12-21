@@ -1,5 +1,5 @@
 # LG-DADA
-Learning-guided Graph Dual Adversarial Domain Alignment (LG-DADA)framework for predicting a target graph from a source graph, coded up in Python by Alaa Bessadok. Please contact alaa.bessadok@gmail.Com for further inquiries. Thanks. 
+Learning-guided Graph Dual Adversarial Domain Alignment (LG-DADA) framework for predicting a target graph from a source graph, coded up in Python by Alaa Bessadok. Please contact alaa.bessadok@gmail.Com for further inquiries. Thanks. 
 
 This repository provides the official Tensorflow implementation of the following paper:
 
