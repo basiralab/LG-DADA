@@ -41,9 +41,7 @@ run demo.py
 
 In order to use our framework, you need to provide a sourceGraph and a targetGraph matrices, each of size (n * m). We denote n the total number of subjects in the dataset and m the number of features. You need to include your data in the file demo.py by removing our simulated dataset and replace it with yours. By default, the number of clusters is set to 2 you can change it in the same file demo.py by updating the parameter (```c = 2 ```). Our code is generic and can be used for any type of isomorphic graph. It mainly output a target graph from a source graph (see figure below). 
 
-<p align="center">
-  <img src="./lg-dada.JPG">
-</p>
+![fig1](lg-dada.jpg)
 
 # Related references
 
